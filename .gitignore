@@ -1,0 +1,5 @@
+*.outfile
+generator.cc
+*.swp
+*.o
+*.out
